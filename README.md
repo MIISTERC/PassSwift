@@ -15,7 +15,7 @@
 
 PassSwift is a Python script designed to streamline password-related tasks and bolster security practices. It allows users to generate robust passwords, assess password strength, validate against a wordlist, and securely store passwords with encryption. The script provides a user-friendly menu for easy navigation, making it ideal for efficient and secure password management.
 
-## Features
+## Features 
 
 - **Password Generation:** Create strong passwords with customizable combinations.
 - **Password Strength Checker:** Evaluate password strength based on length and character types.
@@ -43,7 +43,11 @@ pip install -r requirements.txt
 Python3 PassSwift.py
 ```
 And you are done! Because the script interacts with the user through a inetractive menu..
-# Author
+## ⚠️ Warning: Key File
+
+Do not modify or delete the `key.key` file unless you fully understand its purpose.It is created by the script and This file is crucial for the encryption and decryption process in PassSwift. Altering or removing it may lead to data loss or security vulnerabilities.
+
+# Author 👨‍💻
 MIISTERC as known on github.
 ## Contact
 
