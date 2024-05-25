@@ -53,5 +53,5 @@ MIISTERC as known on github.
 
 Feel free to reach out to me on Instagram for any questions or feedback!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40sc17_kali-orange)](https://www.instagram.com/sc17_kali/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40sagnik.chandra_-orange)](https://www.instagram.com/sc17_kali/)
 
